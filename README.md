@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIF
 Data source: https://insights.stackoverflow.com/survey
 
 
-##My Thoughts
+## My Thoughts
 I noticed that .loc and .iloc use square brackets instead of parentheses. This is interesting to me as I thought methods in Python had to use parentheses when being called? 
 
 I did some research, and this is what I found:
